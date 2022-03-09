@@ -6,6 +6,8 @@
 #define _RAISE 2
 #define _ADJUST 3
 
+// changed #define TAPPING_TOGGLE 2 from 5 in action_tapping.h to toggle with TT() in only 2 presses
+
 enum custom_keycodes {
     QWERTY = SAFE_RANGE,
     LOWER,

@@ -21,3 +21,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define EE_HANDS
 // Keep NKRO on
 #define FORCE_NKRO
+// TT()
+#define TAPPING_TOGGLE 2

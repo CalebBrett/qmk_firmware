@@ -17,7 +17,22 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
+<<<<<<< HEAD
+<<<<<<<< HEAD:keyboards/keebio/iris/keymaps/Calebs/config.h
+=======
+>>>>>>> master
 // #define USE_I2C
 #define EE_HANDS
 // Keep NKRO on
 #define FORCE_NKRO
+<<<<<<< HEAD
+========
+#define EE_HANDS
+#define TAPPING_TERM 150
+#define TAPPING_TOGGLE 2
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+>>>>>>>> master:keyboards/keebio/iris/keymaps/jasondunsmore/config.h
+=======
+// TT()
+#define TAPPING_TOGGLE 2
+>>>>>>> master

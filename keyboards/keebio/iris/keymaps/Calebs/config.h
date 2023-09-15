@@ -23,3 +23,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define FORCE_NKRO
 // TT()
 #define TAPPING_TOGGLE 2
+// Turn off lights when computer is off
+#define RGBLIGHT_SLEEP

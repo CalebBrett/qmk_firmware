@@ -26,3 +26,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // Turn off lights when computer is off
 #define RGBLIGHT_SLEEP
 #define RGBLIGHT_SPLIT
+// Fix NKRO getting disabled when rebooting computer
+#define OS_DETECTION_KEYBOARD_RESET
